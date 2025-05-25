@@ -19,6 +19,8 @@ This Python notebook includes:
     * Implementation, training, and evaluation of **Transformer models** for advanced sequence modeling.
 * **Visualization:** Interactive and static plots to illustrate data distributions, model performance, and key findings.
 
+![Coda Features Symmetry](assets/coda%20features%20symmetry.png)
+
 ### Getting Started
 
 To get started with this repository, clone it to your local machine and install the necessary dependencies.
