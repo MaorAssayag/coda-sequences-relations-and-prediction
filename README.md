@@ -2,6 +2,8 @@
 
 This notebook contains the full codebase, analysis, and results accompanying the research paper titled "Exploring Statistical Relations Between Coda Sequences of Dominica Sperm Whale Pairs". This project delves into the complex vocalizations of sperm whales, specifically analyzing the dependencies and predictability within their coda sequences during dyadic interactions.
 
+<img src="assets/coda%20sequence%20alignment.png" alt="related coda sequence alignment" width="700"/>
+
 <img src="https://img.icons8.com/bubbles/50/000000/information.png" style="height:50px;display:inline">
 
 ### Summary
@@ -18,6 +20,8 @@ This Python notebook includes:
     * Implementation, training, and evaluation of **Long Short-Term Memory (LSTM) networks** for sequence prediction.
     * Implementation, training, and evaluation of **Transformer models** for advanced sequence modeling.
 * **Visualization:** Interactive and static plots to illustrate data distributions, model performance, and key findings.
+
+![Coda Features Symmetry](assets/coda%20features%20symmetry.png)
 
 ### Getting Started
 
