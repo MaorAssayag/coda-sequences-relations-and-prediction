@@ -2,6 +2,8 @@
 
 This notebook contains the full codebase, analysis, and results accompanying the research paper titled "Exploring Statistical Relations Between Coda Sequences of Dominica Sperm Whale Pairs". This project delves into the complex vocalizations of sperm whales, specifically analyzing the dependencies and predictability within their coda sequences during dyadic interactions.
 
+<img src="assets/coda%20sequence%20alignment.png" alt="related coda sequence alignment" width="700"/>
+
 <img src="https://img.icons8.com/bubbles/50/000000/information.png" style="height:50px;display:inline">
 
 ### Summary
