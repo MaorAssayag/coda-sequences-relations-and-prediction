@@ -29,8 +29,8 @@ To get started with this repository, clone it to your local machine and install 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/sperm-whale-coda-analysis.git](https://github.com/your-username/sperm-whale-coda-analysis.git)
-    cd sperm-whale-coda-analysis
+    git clone [https://github.com/MaorAssayag/coda-sequences-relations-and-prediction.git](https://github.com/MaorAssayag/coda-sequences-relations-and-prediction.git)
+    cd coda-sequences-relations-and-predictio
     ```
 2.  **Create and activate a virtual environment (recommended):**
     ```bash
