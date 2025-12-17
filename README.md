@@ -16,7 +16,7 @@ This Python notebook includes:
 * **Exploratory Data Analysis (EDA):** Comprehensive analysis of the sperm whale coda dataset.
 * **Sequence Analysis:** Methods to process and analyze temporal relationships within coda sequences.
 * **Statistical Tests:** Application of various statistical methods to uncover dependencies.
-* **Machine Learning Models:**
+* **ML\DL Models:**
     * Implementation, training, and evaluation of **Gaussian Mixture Model Hidden Markov Models (GMM-HMM)** for capturing probabilistic dependencies.
     * Implementation, training, and evaluation of **Long Short-Term Memory (LSTM) networks** for sequence prediction.
     * Implementation, training, and evaluation of **Transformer models** for advanced sequence modeling.
